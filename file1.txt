@@ -1,0 +1,1 @@
+updated file1 with sync methodthis is appended to file1 with sync method

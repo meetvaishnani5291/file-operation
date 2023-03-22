@@ -1,0 +1,1 @@
+updated file3 with promise methodthis is appended to file3 with promise method
